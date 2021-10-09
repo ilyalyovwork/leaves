@@ -46,7 +46,7 @@
 ├── train.py // Обучение модели
 ├── My_leaves dataset observe.ipynb // Обзор street dataset и аугментаций для него
 ├── Research.ipynb // Проведение исследования
-├── Demo.ipynb // Результаты работы (%TODO)
+├── Demo.ipynb // Результаты работы
 ├── README.md
 └── validation.py // Валидация модели
 ```
@@ -83,7 +83,7 @@
 
 Наконец, в результате обучения модели на собственном датасете (street dataset) ошибка на тренировке составила 0.061, на валидации - 0.045, а Jaccard метрика - 0.809.
 
-Примеры сегментации листа из датасета street leaves (больше примеров в [Demo.ipynb](%TODO)):
+Примеры сегментации листа из датасета street leaves (больше примеров в [Demo.ipynb](https://github.com/ilyalyovwork/leaves/blob/main/research/Demo.ipynb)):
 
 ![image](https://user-images.githubusercontent.com/85474856/136532931-18fadc5f-0beb-4bab-882c-423933c57e40.png)
 
